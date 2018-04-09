@@ -1,0 +1,8 @@
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\bin\Release\jinxianzhi.exe
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\bin\Release\jinxianzhi.pdb
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Release\jinxianzhi.Form1.resources
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Release\jinxianzhi.Properties.Resources.resources
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Release\jinxianzhi.csproj.GenerateResource.Cache
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Release\jinxianzhi.exe
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Release\jinxianzhi.pdb
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Release\jinxianzhi.csprojResolveAssemblyReference.cache

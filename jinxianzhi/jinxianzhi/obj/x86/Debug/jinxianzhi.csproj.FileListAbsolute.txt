@@ -1,0 +1,16 @@
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\bin\Debug\jinxianzhi.exe
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\bin\Debug\jinxianzhi.pdb
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.Form1.resources
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.Properties.Resources.resources
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.csproj.GenerateResource.Cache
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.exe
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.pdb
+E:\2017\大三\oracle实验\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.csprojResolveAssemblyReference.cache
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.exe
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.pdb
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\bin\Debug\jinxianzhi.exe
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\bin\Debug\jinxianzhi.pdb
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.csprojResolveAssemblyReference.cache
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.Form1.resources
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.Properties.Resources.resources
+D:\作业\软件过程与管理\jinxianzhi\jinxianzhi\obj\x86\Debug\jinxianzhi.csproj.GenerateResource.Cache
