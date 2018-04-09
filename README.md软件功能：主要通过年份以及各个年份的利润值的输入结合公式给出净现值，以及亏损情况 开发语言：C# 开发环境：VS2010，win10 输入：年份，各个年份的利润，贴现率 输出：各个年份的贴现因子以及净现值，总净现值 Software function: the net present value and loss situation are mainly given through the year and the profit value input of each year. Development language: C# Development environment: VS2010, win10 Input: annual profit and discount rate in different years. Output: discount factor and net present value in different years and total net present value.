@@ -1,0 +1,13 @@
+# guochengguanli
+guocheng
+软件功能：主要通过年份以及各个年份的利润值的输入结合公式给出净现值，以及亏损情况
+开发语言：C#
+开发环境：VS2010，win10
+输入：年份，各个年份的利润，贴现率
+输出：各个年份的贴现因子以及净现值，总净现值
+
+Software function: the net present value and loss situation are mainly given through the year and the profit value input of each year.
+Development language: C#
+Development environment: VS2010, win10
+Input: annual profit and discount rate in different years.
+Output: discount factor and net present value in different years and total net present value. 
